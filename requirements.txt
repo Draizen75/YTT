@@ -1,4 +1,4 @@
 Flask==2.0.2
 pytube==11.0.1
 gunicorn
-werkzeug==3.0.1
+Werkzeug==1.0.1
